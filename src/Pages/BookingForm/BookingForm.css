@@ -1,0 +1,10 @@
+.BookingForm form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.BookingForm form input{
+    width: 65%;
+    margin-bottom: 10px;
+}
